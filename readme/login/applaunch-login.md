@@ -32,7 +32,7 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
   1. **Enter Your Information**: Tap into the **User ID field** and type your user ID. Then, tap into the **Password field** and type your password.
   2. **Tap Login**: Once both fields are filled, **tap the blue Login button**.
 
-![](<../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_33 (1).png>)
+![](../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_33.png)
 
 3. **Successful Login**: If your user ID and password are correct, you will be **successfully authenticated and logged into the app**.
 
