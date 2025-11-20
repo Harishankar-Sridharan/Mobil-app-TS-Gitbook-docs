@@ -10,7 +10,7 @@ Please note that specific **system requirements** and **installation/setup steps
 
 #### Starting an Intervention
 
-Once the app is installed and you're ready to begin your work, initiating an intervention is simple:
+1. Once the app is installed and you're ready to begin your work, initiating an intervention is simple:
 
 ![](../.gitbook/assets/Intervention-Delivery_timestamp_0_to_00–0_to_04.gif)
 
@@ -76,7 +76,7 @@ The Docs section allows you to handle all necessary paperwork digitally.
 
 ![](../.gitbook/assets/Intervention-Delivery_timestamp_1_to_45–1_to_52.gif)
 
-4. 💡 **Tip**: Use the **filter icon** at the top to sort your document list by intervention or site, helping you find specific documents faster. After selecting your filter, remember to tap **Apply**.
+💡 **Tip**: Use the **filter icon** at the top to sort your document list by intervention or site, helping you find specific documents faster. After selecting your filter, remember to tap **Apply**.
 
 ![](../.gitbook/assets/Intervention-Delivery_timestamp_2_to_02–2_to_06.gif)
 
@@ -92,12 +92,12 @@ This is crucial for accurate delivery management.
 
 ![](../.gitbook/assets/Intervention-Delivery_timestamp_2_to_25–2_to_31.gif)
 
-4. You will see information such as: **Customers collected date and time**, **delivered to the customer date and time**, **order name**, and **customer name and address**.
-5. You can also enter any **remarks** in the **comment box** provided.
+3. You will see information such as: **Customers collected date and time**, **delivered to the customer date and time**, **order name**, and **customer name and address**.
+4. You can also enter any **remarks** in the **comment box** provided.
 
 ![](../.gitbook/assets/Intervention-Delivery_timestamp_2_to_55–2_to_59.gif)
 
-6. Tap **Save** to update the changes
+5. Tap **Save** to update the changes
 
 ![](../.gitbook/assets/Intervention-Delivery_timestamp_2_to_59–3_to_05.gif)
 
@@ -119,11 +119,11 @@ This is crucial for accurate delivery management.
 
 ![](../.gitbook/assets/Intervention-Delivery_timestamp_3_to_26–3_to_30.gif)
 
-Tap **photo** icon to upload an image from the gallery
+4. Tap **photo** icon to upload an image from the gallery
 
 ![](../.gitbook/assets/Intervention-Delivery_removed_personal.gif)
 
-Tap **Save** to update the changes
+5. Tap **Save** to update the changes
 
 ![](../.gitbook/assets/Intervention-Delivery_timestamp_3_to_41–3_to_45.gif)
 
@@ -161,7 +161,7 @@ Secure customer acknowledgement easily.
 
 #### Completing the Intervention
 
-Finalize your work and sync it with the back office.
+1. Finalize your work and sync it with the back office.
 
 ![](../.gitbook/assets/Intervention-Delivery_timestamp_4_to_34–4_to_40.gif)
 
@@ -175,7 +175,7 @@ Finalize your work and sync it with the back office.
 
 ***
 
-### 5. Productivity Tips
+### 4. Productivity Tips
 
 * **Stay Informed with Badges**: Keep an eye on the **small blue badges** on each icon. They quickly tell you how many items (documents, photos, packages) you’ve added to each section, helping you track your progress at a glance.
 * **Use Quick Access for Communication**: Don't forget the **email icon** for fast communication. This can save you time when you need to send a quick update or contact someone directly from the intervention site.
