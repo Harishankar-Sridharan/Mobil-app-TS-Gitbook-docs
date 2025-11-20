@@ -1,6 +1,4 @@
-# AppLaunch-Login
-
-Welcome to the Nomadia TourSolver mobile app! This guide will help you easily get started and log in, ensuring a smooth experience from the very beginning. We'll walk you through downloading the app, understanding the login screen, and successfully accessing your account.
+# Login
 
 ### Getting Started
 
@@ -13,7 +11,7 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
   1. **Download the App**: You can download the Nomadia TourSolver application from either the **iOS App Store** (for Apple devices) or the **Google Play Store** (for Android devices).
   2. **Launch the App**: After downloading, find the **TourSolver icon** on your device's main screen and **tap it** to open the app.
 
-![](<../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_04 (1).png>)
+![](<../.gitbook/assets/AppLaunch-Login_timestamp_0_to_04 (1).png>)
 
 * **Initial Configuration: Login Screen Overview** When you first launch the app, you'll always see the **login screen**. This screen is where you'll enter your information to access the app. It includes several key elements:
   * **User ID Field**: This is where you will type your unique user identification.
@@ -32,17 +30,17 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
   1. **Enter Your Information**: Tap into the **User ID field** and type your user ID. Then, tap into the **Password field** and type your password.
   2. **Tap Login**: Once both fields are filled, **tap the blue Login button**.
 
-![](../../.gitbook/assets/AppLaunch-Login_timestamp_0_to_33.png)
+![](../.gitbook/assets/AppLaunch-Login_timestamp_0_to_33.png)
 
 3. **Successful Login**: If your user ID and password are correct, you will be **successfully authenticated and logged into the app**.
 
-![](<../../.gitbook/assets/AppLaunch-Login_timestamp_1_to_32 (1).png>)
+![](<../.gitbook/assets/AppLaunch-Login_timestamp_1_to_32 (1).png>)
 
 * **Troubleshooting: Incorrect Login** Sometimes, you might make a typo or forget your password. Don't worry, the app will let you know!
   * If the **username or password you entered is incorrect**, an error message stating "**Incorrect username or password**" will appear. This message will be displayed between the password field and the login button.
   * ⚠️ **Warning**: If you see this message, double-check your user ID and password for typos, and ensure your Caps Lock is not accidentally on.
 
-![](<../../.gitbook/assets/Media (5).jpg>)
+![](<../.gitbook/assets/Media (5).jpg>)
 
 ### Productivity Tips
 

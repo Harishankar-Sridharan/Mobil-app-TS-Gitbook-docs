@@ -1,16 +1,6 @@
-# Intervention-Delivery
+# Delivery
 
-This user guide will help you master the TourSolver Mobile app for Intervention-Delivery, making your daily tasks straightforward and efficient. By following these steps, you’ll be able to manage interventions, capture crucial information, and ensure smooth operations from the field, all while staying connected with your back office.
-
-***
-
-### 1. Welcome to TourSolver Mobile/Intervention-Delivery!
-
-Welcome to your essential tool for managing field interventions! The TourSolver Mobile app is designed to simplify your delivery and service tasks, allowing you to easily track interventions, manage packages, capture photos, and collect important customer acknowledgements, all in real time. This guide will walk you through every feature, ensuring you feel confident and productive on the go.
-
-***
-
-### 2. Getting Started
+### 1. Getting Started
 
 To begin using the TourSolver Mobile app, follow these steps.
 
@@ -22,15 +12,15 @@ Please note that specific **system requirements** and **installation/setup steps
 
 Once the app is installed and you're ready to begin your work, initiating an intervention is simple:
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_0_to_00–0_to_04.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_0_to_00–0_to_04.gif)
 
 2. A **confirmation pop-up** will appear.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_0_to_04–0_to_10.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_0_to_04–0_to_10.gif)
 
 ***
 
-### 3. Understanding Your Interface: Key Features and Benefits
+### 2. Key Features and Benefits
 
 The TourSolver Mobile app’s interface is designed for quick navigation and real-time updates.
 
@@ -49,7 +39,7 @@ Just below the main navigation icons, you’ll find a row of icons that let you 
 * **Reports**: This is where you can **upload the official intervention report**.
 * **Signature**: Capture the **customer's acknowledgement or signature** directly on your device.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="360"><figcaption></figcaption></figure>
 
 #### Quick Access Tools
 
@@ -58,11 +48,11 @@ Below the main navigation icons, you’ll see the **globe badge** and two quick-
 * **Globe Badge**: This badge provides a quick overview of your **current geographical context**, showing you exactly where the intervention is located.
 * **Email Icon**: Tap this to **quickly send updates or contact relevant parties**.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_0_to_54–1_to_03.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_0_to_54–1_to_03.gif)
 
 * **Navigation Button**: Located next to the email icon, tapping this opens your **preferred maps application**, providing instant route guidance to the intervention site.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_1_to_03–1_to_18.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_1_to_03–1_to_18.gif)
 
 #### Intervention Details
 
@@ -73,7 +63,7 @@ Below these icons, you’ll find essential details about your current interventi
 
 ***
 
-### 4. Common Tasks: Step-by-Step Instructions
+### 3. Step-by-Step Instructions
 
 This section guides you through the most frequent actions you’ll perform within the TourSolver Mobile app.
 
@@ -84,11 +74,11 @@ The Docs section allows you to handle all necessary paperwork digitally.
 1. Tap **Docs** to upload relevant documents.
 2. To view a document, simply tap on it to open.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_1_to_45–1_to_52.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_1_to_45–1_to_52.gif)
 
 4. 💡 **Tip**: Use the **filter icon** at the top to sort your document list by intervention or site, helping you find specific documents faster. After selecting your filter, remember to tap **Apply**.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_2_to_02–2_to_06.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_2_to_02–2_to_06.gif)
 
 #### Scanning and Managing Packages (Packages Section)
 
@@ -96,20 +86,20 @@ This is crucial for accurate delivery management.
 
 1. Tap the scanner to scan the QR code
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_2_to_06–2_to_13.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_2_to_06–2_to_13.gif)
 
 2. Once scanned, the barcode number will appear along with a green circle next to it."
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_2_to_25–2_to_31.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_2_to_25–2_to_31.gif)
 
 4. You will see information such as: **Customers collected date and time**, **delivered to the customer date and time**, **order name**, and **customer name and address**.
 5. You can also enter any **remarks** in the **comment box** provided.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_2_to_55–2_to_59.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_2_to_55–2_to_59.gif)
 
 6. Tap **Save** to update the changes
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_2_to_59–3_to_05.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_2_to_59–3_to_05.gif)
 
 **Visual Guidance Placeholder:**
 
@@ -119,29 +109,29 @@ This is crucial for accurate delivery management.
 
 1. Document your work with clear images.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_3_to_17–3_to_21.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_3_to_17–3_to_21.gif)
 
 2. Tap **Camera** icon to take a snap
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_3_to_21–3_to_26.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_3_to_21–3_to_26.gif)
 
 3. Select the **tick mark** to confirm and upload the photo."
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_3_to_26–3_to_30.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_3_to_26–3_to_30.gif)
 
 Tap **photo** icon to upload an image from the gallery
 
-![](../../.gitbook/assets/Intervention-Delivery_removed_personal.gif)
+![](../.gitbook/assets/Intervention-Delivery_removed_personal.gif)
 
 Tap **Save** to update the changes
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_3_to_41–3_to_45.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_3_to_41–3_to_45.gif)
 
 #### Adding General Remarks (Remark Section)
 
 Provide important context or notes for the back office.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_3_to_49–3_to_53.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_3_to_49–3_to_53.gif)
 
 #### Uploading Intervention Reports (Report Section)
 
@@ -149,21 +139,21 @@ Complete your official documentation.
 
 1. **Upload the intervention report.**
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_3_to_53–3_to_59.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_3_to_53–3_to_59.gif)
 
 2. **Select the appropriate report type**.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_4_to_03–4_to_07.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_4_to_03–4_to_07.gif)
 
 3. **Fill in the necessary details under the relevant report option. The fields displayed here depend on the configuration set in the back office.**
 
-<figure><img src="../../.gitbook/assets/Reports.png" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Reports.png" alt="" width="343"><figcaption></figcaption></figure>
 
 #### Capturing Customer Signatures (Signature Section)
 
 Secure customer acknowledgement easily.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_4_to_29–4_to_34.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_4_to_29–4_to_34.gif)
 
 **Visual Guidance Placeholder:**
 
@@ -173,15 +163,15 @@ Secure customer acknowledgement easily.
 
 Finalize your work and sync it with the back office.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_4_to_34–4_to_40.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_4_to_34–4_to_40.gif)
 
 2. A **confirmation pop-up** will appear.
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_4_to_41–4_to_46.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_4_to_41–4_to_46.gif)
 
 3. Once you tap **confirm**, the status will changed to completed
 
-![](../../.gitbook/assets/Intervention-Delivery_timestamp_4_to_49–5_to_00.gif)
+![](../.gitbook/assets/Intervention-Delivery_timestamp_4_to_49–5_to_00.gif)
 
 ***
 
