@@ -1,8 +1,6 @@
-# Sites\&Leads-Leads
+# Leads
 
-Welcome to the **Sites & Leads** user guide for the **TourSolver Mobile application**! This guide is designed to help you efficiently access and explore customer leads, empowering you to stay organized, efficient, and informed during your daily field operations. Whether you're a new user or looking to master advanced features, this guide will walk you through everything you need to know.
-
-### Getting Started
+### 1. Getting Started
 
 The TourSolver Mobile application's **Sites & Leads** feature simplifies managing customer information and optimizing your field tasks.
 
@@ -10,7 +8,7 @@ The TourSolver Mobile application's **Sites & Leads** feature simplifies managin
 * **Installation/Setup Steps:** The provided sources do not include steps for installing or setting up the TourSolver Mobile application.
 * **Initial Configuration:** The sources indicate that **leads are secondary customer locations already stored in the database**. They can have records that are either assigned or not assigned to your current route. The application automatically optimizes routes, so the distance shown is for information only, not for further optimization.
 
-### Feature Explanations with Benefits
+### 2. Feature Explanations with Benefits
 
 The **Sites & Leads** feature offers a robust way to manage customer interactions:
 
@@ -20,7 +18,7 @@ The **Sites & Leads** feature offers a robust way to manage customer interaction
 * **Optimized Routes**: The application comes with routes that are already optimized, meaning the displayed distance is purely for your information.
 * **Efficient Field Operations**: Features like smart filters and integrated navigation are designed to support your daily tasks, helping you stay organized, efficient, and well-informed.
 
-### Common Tasks with Detailed Steps
+### 3. Step by Step Instructions
 
 This section will guide you through the most frequent tasks you’ll perform within the **Sites & Leads** feature.
 
@@ -31,7 +29,7 @@ To begin, you need to access the main Sites & Leads section from your dashboard.
 1. From the dashboard, **tap** on the **Sites and Leads** button located at the bottom of the screen, next to the Calendar tab.
 2. Next, **tap** the **Leads** option, which is located next to the Sites tab.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_0_to_21.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_0_to_21.png)
 
 #### Viewing and Interacting with Customer Cards
 
@@ -39,7 +37,7 @@ Each customer order is presented as a card with key information.
 
 1. To view detailed information, **tap directly on any customer card**.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_0_to_54.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_0_to_54.png)
 
 #### Adding Customer Photos
 
@@ -56,7 +54,7 @@ You can add photos to a customer's record, either by taking a new picture or upl
    * **Select a photo** from your gallery.
    * **Tap Done** to upload the image.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_1_to_13.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_1_to_13.png)
 
 #### Relocating a Customer Site
 
@@ -66,7 +64,7 @@ If a customer's coordinates need updating to your current position, you can do s
 2. From the pop-up options, **select Relocate**.
 3. A confirmation message will appear. **Tap Confirm** to proceed.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_1_to_59.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_1_to_59.png)
 
 #### Copying Customer Details
 
@@ -74,7 +72,7 @@ You can quickly copy customer details for easy sharing.
 
 1. **Tap** the **copy button** located just below the photo icon.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_2_to_16.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_2_to_16.png)
 
 #### Sending Customer Details to Another Device
 
@@ -83,7 +81,7 @@ You can share customer details with another person using a QR code.
 1. After copying the customer details, **tap Send to device**.
 2. **Tap Use QR code**.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_2_to_22.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_2_to_22.png)
 
 #### Navigating Using Maps
 
@@ -93,7 +91,7 @@ The application integrates with navigation apps like Google Maps for seamless dr
 2. The app will offer available navigation options, such as **Google Maps**.
 3. **Select Google Maps**.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_2_to_44.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_2_to_44.png)
 
 #### Linking Documents
 
@@ -111,7 +109,7 @@ You can link important documents to a customer's record, either by taking a phot
    * **Tap Confirm** to proceed.
    * **Select a document** from the folder.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_3_to_13.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_3_to_13.png)
 
 #### Switching Between List and Map Views
 
@@ -121,7 +119,7 @@ You can switch between two views to best suit your needs:
    * **Result**: The app displays customer locations on a map.
 2. To view a detailed summary of customer information, **tap the list icon**.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_4_to_01.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_4_to_01.png)
 
 #### Searching for Customers
 
@@ -132,7 +130,7 @@ Quickly find specific customer entries using the search bar.
 3. **Select the address** from the drop-down list.
    * **Result**: The address results will display.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_4_to_23.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_4_to_23.png)
 
 #### Displaying Nearby Sites ("Around Me")
 
@@ -141,7 +139,7 @@ See customer sites close to your current location on the map.
 1. **Tap** the **Around Me button** to display nearby sites on the map.
 2. You can **zoom in and zoom out** to view the customer's location more closely.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_4_to_51.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_4_to_51.png)
 
 #### Filtering by Distance or Time
 
@@ -152,9 +150,9 @@ Narrow down your customer list based on proximity or travel time.
    * **Example**: You can filter to show only customers within a 4.35-mile radius or up to 15.53 miles, based on your service range.
 3. After entering your criteria, **tap the save button** to apply the changes.
 
-![](../../.gitbook/assets/Sites\&Leads-Leads_timestamp_5_to_09.png)
+![](../.gitbook/assets/Sites\&Leads-Leads_timestamp_5_to_09.png)
 
-### Productivity Tips
+### 4. Productivity Tips
 
 * **Utilize Filters**: Use the distance and time filters to efficiently narrow down your customer list, helping you focus on the most relevant leads for your current service range.
 * **Leverage Map View**: Switch to the map view to visually understand customer locations and their proximity to your current position, especially when using the "Around Me" feature.
