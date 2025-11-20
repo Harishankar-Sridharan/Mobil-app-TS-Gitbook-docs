@@ -14,7 +14,7 @@ To begin using the Loading-Unloading features, you'll first need to access the c
 
 ![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_0_to_04–0_to_08.gif>)
 
-![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_0_to_04–0_to_08 (1).gif>)
+![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_0_to_04–0_to_08.gif>)
 
 ### Navigating Between Loading and Unloading Tabs
 
@@ -24,7 +24,7 @@ Within the Packages section, you can switch between two main functions: Loading 
 
 2. **Tap** on the desired tab (**Loading** or **Unloading**) to switch between them.
 
-![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_0_to_21–0_to_27 (1).gif>)
+![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_0_to_21–0_to_27.gif>)
 
 ### Understanding Parcel Statuses
 
@@ -71,7 +71,7 @@ Here are detailed steps for common tasks you'll perform in the app.
 
 Scanning barcodes is a primary way to manage packages in both the Loading and Unloading tabs.
 
-![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_0_to_21–0_to_27 (3).gif>)
+![](<../../.gitbook/assets/Package-Loading and Unloading_timestamp_0_to_21–0_to_27.gif>)
 
 2. **Scan** the package barcode.
 
@@ -91,11 +91,11 @@ You can add important notes or details to package information in both Loading an
 
 You can add images of packages, especially useful for returned or picked-up items in the Unloading tab.
 
-![](<../../.gitbook/assets/Loaded successfully (3).png>)
+![](<../../.gitbook/assets/Loaded successfully (2).png>)
 
 #### Option A: Taking a New Photo
 
-![](<../../.gitbook/assets/Loaded successfully (4).png>)
+![](<../../.gitbook/assets/Loaded successfully (2).png>)
 
 #### Option B: Choosing an Existing Image from Your Gallery
 

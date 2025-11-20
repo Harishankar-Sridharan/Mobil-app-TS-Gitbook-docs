@@ -121,7 +121,7 @@ You can switch between two views to best suit your needs:
    * **Result**: The app displays customer locations on a map.
 2. To view a detailed summary of customer information, **tap the list icon**.
 
-![](<../../.gitbook/assets/Sites (1).png>)
+![](../../.gitbook/assets/Sites.png)
 
 #### Searching for Customers
 
@@ -132,7 +132,7 @@ Quickly find specific customer entries using the search bar.
 3. **Select the address** from the drop-down list.
    * **Result**: The address results will display.
 
-![](<../../.gitbook/assets/Sites (2).png>)
+![](../../.gitbook/assets/Sites.png)
 
 #### Displaying Nearby Sites ("Around Me")
 
@@ -152,7 +152,7 @@ Narrow down your customer list based on proximity or travel time.
    * **Example**: You can filter to show only customers within a 4.35-mile radius or up to 15.53 miles, based on your service range.
 3. After entering your criteria, **tap the save button** to apply the changes.
 
-![](<../../.gitbook/assets/Sites 1 (1).png>)
+![](<../../.gitbook/assets/Sites 1.png>)
 
 ### Productivity Tips
 

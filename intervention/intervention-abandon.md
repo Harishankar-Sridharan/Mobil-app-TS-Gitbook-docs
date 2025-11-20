@@ -1,4 +1,4 @@
-# Intervention-Abandon
+# Abandon
 
 Welcome to your user guide for **TourSolver Mobile/Intervention-Abandon**! This guide is designed to help you easily manage and, when necessary, abandon interventions within the TourSolver Mobile application. We aim to make this process clear and stress-free, so you can focus on your tasks with confidence.
 
@@ -19,19 +19,19 @@ Here’s how to abandon an intervention in TourSolver Mobile:
 1. **Access the Intervention from Your Dashboard**
    * To begin, you need to open the specific intervention you wish to abandon.
 
-![](../../.gitbook/assets/Intervention-Abandon_timestamp_0_to_00–0_to_18.gif)
+![](../.gitbook/assets/Intervention-Abandon_timestamp_0_to_00–0_to_18.gif)
 
 2\. **Locate and Tap the Abandon Button** \* Once you've opened the intervention, if you decide to abandon it, look for the dedicated button.
 
-![](<../../.gitbook/assets/Intervention-Abandon_timestamp_0_to_19–0_to_29 (1).gif>)
+![](../.gitbook/assets/Intervention-Abandon_timestamp_0_to_19–0_to_29.gif)
 
 3\. **Confirm the Abandonment** \* After tapping the abandon button, a pop-up window will appear on your screen to confirm your action. This is a safety measure to prevent accidental abandonments.
 
-![](../../.gitbook/assets/Intervention-Abandon_timestamp_0_to_31.png)
+![](../.gitbook/assets/Intervention-Abandon_timestamp_0_to_31.png)
 
 4\. **Verify Abandonment** \* Once you confirm, the system will process your request.
 
-![](../../.gitbook/assets/Intervention-Abandon_timestamp_0_to_37–0_to_40.gif)
+![](../.gitbook/assets/Intervention-Abandon_timestamp_0_to_37–0_to_40.gif)
 
 ### Productivity Tips
 
