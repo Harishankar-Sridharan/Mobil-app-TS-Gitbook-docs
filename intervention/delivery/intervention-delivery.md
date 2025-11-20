@@ -157,7 +157,7 @@ Complete your official documentation.
 
 3. **Fill in the necessary details under the relevant report option. The fields displayed here depend on the configuration set in the back office.**
 
-<figure><img src="../../.gitbook/assets/Reports (1) (1).png" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Reports.png" alt="" width="343"><figcaption></figcaption></figure>
 
 #### Capturing Customer Signatures (Signature Section)
 
