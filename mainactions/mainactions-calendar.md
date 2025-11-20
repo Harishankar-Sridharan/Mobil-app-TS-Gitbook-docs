@@ -1,10 +1,6 @@
-# MainActions-Calendar
+# Calendar
 
-Welcome to your user guide for **TourSolver Mobile/Calendar**! This guide is designed to help you quickly become proficient in managing your daily interventions, appointments, and tasks directly from your mobile device. With clear, step-by-step instructions and helpful tips, you'll be navigating your schedule with confidence in no time!
-
-***
-
-### 1. Getting Started with Your Calendar
+### 1. Getting Started&#x20;
 
 The calendar screen is your central hub for viewing and managing all your planned activities, whether for today or in the future.
 
@@ -13,7 +9,7 @@ The calendar screen is your central hub for viewing and managing all your planne
   1. Look for the main action buttons at the **bottom** of your app screen.
   2. **Tap** the **calendar button**.
 
-![](../../.gitbook/assets/MainActions-Calendar_timestamp_0_to_12–0_to_29.gif)
+![](../.gitbook/assets/MainActions-Calendar_timestamp_0_to_12–0_to_29.gif)
 
 ### 2. Feature Explanations & Benefits
 
@@ -46,7 +42,7 @@ The TourSolver Mobile calendar offers powerful features to keep you organized an
 
 ***
 
-### 3. Common Tasks
+### 3. Step by Step Instructions
 
 Here's how to perform key actions within the TourSolver Mobile Calendar.
 
@@ -54,33 +50,33 @@ Here's how to perform key actions within the TourSolver Mobile Calendar.
 
 1. From the calendar screen, tap the **calendar icon** at the **top left**.
 
-![](../../.gitbook/assets/MainActions-Calendar_timestamp_0_to_32–0_to_46.gif)
+![](../.gitbook/assets/MainActions-Calendar_timestamp_0_to_32–0_to_46.gif)
 
 2. The current month will be displayed with today's date highlighted.
 3. You have several options to pick another date:
 
-![](../../.gitbook/assets/MainActions-Calendar_timestamp_0_to_55–1_to_03.gif)
+![](../.gitbook/assets/MainActions-Calendar_timestamp_0_to_55–1_to_03.gif)
 
 4\. Once you've chosen your date, tap **OK** to confirm your selection or **Cancel** to close the pop-up without changing the date.
 
-![](../../.gitbook/assets/MainActions-Calendar_timestamp_1_to_53–2_to_04.gif)
+![](../.gitbook/assets/MainActions-Calendar_timestamp_1_to_53–2_to_04.gif)
 
 **3.2. Switching Between Calendar and Map Views** You can choose how you want to visualize your interventions:
 
 1. At the top center of the screen, next to the calendar icon, you'll see two view icons.
 2. **Tap** the respective icon to switch:
 
-![](../../.gitbook/assets/MainActions-Calendar_timestamp_2_to_12–2_to_19.gif)
+![](../.gitbook/assets/MainActions-Calendar_timestamp_2_to_12–2_to_19.gif)
 
 **3.3. Using Filters and Display Options** To refine your view or access actions:
 
 1. Tap the **filter button** at the **top right** of the screen.
 
-![](../../.gitbook/assets/MainActions-Calendar_timestamp_2_to_33–2_to_37.gif)
+![](../.gitbook/assets/MainActions-Calendar_timestamp_2_to_33–2_to_37.gif)
 
 2. From this menu, you can switch between Week, Day and List
 
-![](../../.gitbook/assets/MainActions-Calendar_timestamp_5_to_44–5_to_53.gif)
+![](../.gitbook/assets/MainActions-Calendar_timestamp_5_to_44–5_to_53.gif)
 
 **3.4. Viewing Intervention Details in Card View**
 
@@ -104,7 +100,7 @@ Here's how to perform key actions within the TourSolver Mobile Calendar.
    * Your **route drawn** on the map.
 3. **Full Screen Map View:**
 
-![](../../.gitbook/assets/MainActions-Calendar_timestamp_4_to_23–4_to_29.gif)
+![](../.gitbook/assets/MainActions-Calendar_timestamp_4_to_23–4_to_29.gif)
 
 **3.6. Returning to the Main Calendar Screen** You can always return to the main calendar screen by tapping the **back arrow** at the **top left**.
 
