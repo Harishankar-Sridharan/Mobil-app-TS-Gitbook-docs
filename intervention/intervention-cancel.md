@@ -17,7 +17,7 @@ This section provides a step-by-step guide on how to successfully cancel an inte
 #### **Step-by-Step Instructions**
 
 1. **Start the Intervention (Prerequisite)** Before you can cancel an intervention, you first need to begin it.
-   *   Tap **begin** to start the intervention.
+   *   Tap **accept** to start the intervention.
 
        <figure><img src="../.gitbook/assets/Intervention-Abandon_timestamp_0_to_19–0_to_29.gif" alt="" width="360"><figcaption></figcaption></figure>
 2. **Confirm the Intervention** After tapping "begin," a confirmation pop-up will appear. You must confirm the intervention to proceed.
