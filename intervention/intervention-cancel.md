@@ -1,14 +1,14 @@
-# Cancel
+# Undo
 
 ### 1. Getting Started
 
 Please note that the provided sources focus specifically on the intervention cancellation process. Therefore, detailed information regarding system requirements, installation, setup steps, or initial configuration of the TourSolver Mobile application is not available in these sources. You may need to refer to other documentation for these initial steps.
 
-### 2. Cancelling an Intervention
+### 2. Undo an Intervention
 
-The **Intervention Cancellation** feature allows you to revoke an intervention that you have previously confirmed. This is incredibly useful if your plans change unexpectedly, or if an intervention is no longer required after it has been initiated. By following a few simple steps, you can ensure that your schedule is accurate and that any unneeded interventions are promptly removed.
+The **Undo an Intervention** feature allows you to revoke an intervention that you have previously confirmed. This is incredibly useful if your plans change unexpectedly, or if an intervention is no longer required after it has been initiated. By following a few simple steps, you can ensure that your schedule is accurate and that any unneeded interventions are promptly removed.
 
-### 3. How to Cancel an Intervention
+### 3. How to Undo an Intervention
 
 This section provides a step-by-step guide on how to successfully cancel an intervention in TourSolver Mobile.
 
@@ -25,19 +25,19 @@ This section provides a step-by-step guide on how to successfully cancel an inte
    *   Tap the **green confirm button** on this pop-up to confirm the intervention.
 
        <figure><img src="../.gitbook/assets/Intervention-Cancel (1).png" alt="" width="238"><figcaption></figcaption></figure>
-3. **Initiate Cancellation** Once you have confirmed the intervention, if you decide you need to cancel it, look for the cancellation option.
+3. **Initiate Undo** Once you have confirmed the intervention, if you decide you need to cancel it, look for the cancellation option.
    *   Tap the **red cancel button** located at the bottom of your screen. This action initiates the cancellation process.
 
        <figure><img src="../.gitbook/assets/Intervention-Cancel 2.png" alt="" width="229"><figcaption></figcaption></figure>
 
        * _(Please note: This guide cannot include a direct video segment or GIF, but this step typically involves a brief animation showing the button press.)_
-4.  **Confirm the Cancellation** To prevent accidental cancellations, the system will ask you for a final confirmation.
+4.  **Confirm the Undo** To prevent accidental cancellations, the system will ask you for a final confirmation.
 
     * A new confirmation pop-up appears.
     * Tap the **green confirm button** on this pop-up to finalize the cancellation.
 
     <figure><img src="../.gitbook/assets/Intervention-Cancel 3 (3).png" alt="" width="228"><figcaption></figcaption></figure>
-5. **Verify Successful Cancellation** After confirming the cancellation, the app will provide a message indicating the outcome of your action.
+5. **Verify Successful Undo** After confirming the cancellation, the app will provide a message indicating the outcome of your action.
    *   You will see a message confirming that **"Status reverted to the accepted successfully"**. This confirms that the intervention is no longer active.
 
        <figure><img src="../.gitbook/assets/Intervention-Cancel 4 (1).png" alt="" width="229"><figcaption></figcaption></figure>

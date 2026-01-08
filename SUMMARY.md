@@ -5,7 +5,7 @@
 * [Intervention](intervention/README.md)
   * [Delivery](intervention/intervention-delivery.md)
   * [Pickup](intervention/intervention-pickup.md)
-  * [Cancel](intervention/intervention-cancel.md)
+  * [Undo](intervention/intervention-cancel.md)
   * [Abandon](intervention/intervention-abandon.md)
 * [MainActions](mainactions/README.md)
   * [Calendar](mainactions/mainactions-calendar.md)
