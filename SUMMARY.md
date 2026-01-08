@@ -1,12 +1,12 @@
 # Table of contents
 
 * [App Launch](README.md)
-  * [Login](readme/applaunch-login.md)
+  * [Login](app-launch/login.md)
 * [Intervention](intervention/README.md)
-  * [Delivery](intervention/intervention-delivery.md)
-  * [Pickup](intervention/intervention-pickup.md)
-  * [Undo](intervention/intervention-cancel.md)
-  * [Cancel](intervention/intervention-abandon.md)
+  * [Delivery](intervention/delivery.md)
+  * [Pickup](intervention/pickup.md)
+  * [Undo](intervention/undo.md)
+  * [Cancel](intervention/cancel.md)
 * [MainActions](mainactions/README.md)
   * [Calendar](mainactions/mainactions-calendar.md)
   * [Dashboard](mainactions/mainactions-dashboard.md)
