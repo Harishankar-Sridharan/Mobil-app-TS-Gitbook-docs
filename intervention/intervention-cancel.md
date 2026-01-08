@@ -2,7 +2,7 @@
 
 ### 1. Getting Started
 
-Please note that the provided sources focus specifically on the intervention cancellation process. Therefore, detailed information regarding system requirements, installation, setup steps, or initial configuration of the TourSolver Mobile application is not available in these sources. You may need to refer to other documentation for these initial steps.
+Please note that the provided sources focus specifically on the intervention undo process. Therefore, detailed information regarding system requirements, installation, setup steps, or initial configuration of the TourSolver Mobile application is not available in these sources. You may need to refer to other documentation for these initial steps.
 
 ### 2. Undo an Intervention
 
@@ -10,13 +10,13 @@ The **Undo an Intervention** feature allows you to revoke an intervention that y
 
 ### 3. How to Undo an Intervention
 
-This section provides a step-by-step guide on how to successfully cancel an intervention in TourSolver Mobile.
+This section provides a step-by-step guide on how to successfully undo an intervention in TourSolver Mobile.
 
-**Scenario:** You have started an intervention and confirmed it, but now you need to cancel it due to a change in plans or circumstances.
+**Scenario:** You have started an intervention and confirmed it, but now you need to undo it due to a change in plans or circumstances.
 
 #### **Step-by-Step Instructions**
 
-1. **Start the Intervention (Prerequisite)** Before you can cancel an intervention, you first need to begin it.
+1. **Start the Intervention (Prerequisite)** Before you can undo an intervention, you first need to begin it.
    *   Tap **Begin** to start the intervention.
 
        <figure><img src="../.gitbook/assets/Media (9).jpg" alt="" width="375"><figcaption></figcaption></figure>
