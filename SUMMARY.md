@@ -8,6 +8,7 @@
   * [Pickup](intervention/pickup.md)
   * [Undo](intervention/undo.md)
   * [Cancel](intervention/cancel.md)
+  * [Refuse or Cancel a Visit Without Notifying the Customer](intervention/refuse-or-cancel-without-notifying-the-customer.md)
 * [MainActions](mainactions/README.md)
   * [Calendar](mainactions/calendar.md)
   * [Dashboard](mainactions/dashboard.md)
