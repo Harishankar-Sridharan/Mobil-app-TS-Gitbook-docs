@@ -2,6 +2,7 @@
 
 * [App Launch](README.md)
   * [Login](app-launch/login.md)
+  * [Cannot Log In to the Mobile App](app-launch/cannot-log-in-to-the-mobile-app.md)
 * [Intervention](intervention/README.md)
   * [Delivery](intervention/delivery.md)
   * [Pickup](intervention/pickup.md)
