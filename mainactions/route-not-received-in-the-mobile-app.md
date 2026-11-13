@@ -5,7 +5,8 @@
 When the planner shares a route from the TourSolver back office, the route appears in the mobile app of the driver. If the route does not appear, the cause is usually the link between the deliverer and the mobile user, the agencies, or the app that needs to be refreshed.
 
 * **Before you begin**:
-  * The driver can log in to the app. See [Cannot Log In to the Mobile App](cannot-log-in-to-the-mobile-app.md).
+  * The driver can log in to the app. See [Cannot Log In to the Mobile App](../app-launch/cannot-log-in-to-the-mobile-app.md).
+  * The driver opens the routes of the day from the **Dashboard**. See [Dashboard](dashboard.md).
   * The planner has shared the route with **Export** > **Share with the mobile app**. See [Share a Tour with the Mobile App](https://nomadia-docs.gitbook.io/products/operationsandroutemanagement/operationsandroutemanagement-shareatourwiththemobileapp).
 
 ### Feature Explanations with Benefits
