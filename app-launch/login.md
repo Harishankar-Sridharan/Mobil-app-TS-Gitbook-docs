@@ -46,3 +46,4 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
 
 * 💡 **Password Management**: Always remember that your **TourSolver back office administrator** is the primary contact for any password changes or issues. Don't hesitate to reach out to them if you're having persistent login problems.
 * 💡 **Quick Check**: Use the **eye icon** next to the password field to quickly verify your password entry before tapping **Login**. This can save you time if you tend to make typos.
+* 💡 **Still cannot log in?**: See [Cannot Log In to the Mobile App](cannot-log-in-to-the-mobile-app.md).
